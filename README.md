@@ -20,6 +20,7 @@ A modern, offline-first personal finance tracker built with **Jetpack Compose**,
 
 ## 📱 Screenshots
 *(Insert your app screenshots here: Go to your app, take 3-4 clean screenshots, upload them to GitHub by dragging them into the README editor)*
+![photo_2025-09-04_15-36-16](https://github.com/user-attachments/assets/030f7976-b1f2-45a4-94dd-431708181d70)
 
 ## 💡 Developer Experience
 I have previously published 5+ apps on the Google Play Store with 7,000+ active users. You can check my developer profile here: [Blanklearn Play Store](https://play.google.com/store/apps/developer?id=Blanklearn)
