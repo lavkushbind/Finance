@@ -18,13 +18,17 @@ A modern, offline-first personal finance tracker built with **Jetpack Compose**,
 - **Async:** Kotlin Coroutines & Flow
 - **Charts:** Vico Charts
 
-##  Screenshots
-![photo_2026-04-06_19-10-37](https://github.com/user-attachments/assets/5a29b667-8924-4dda-9e52-5dfe259b7c37)
-![photo_2026-04-06_19-11-25](https://github.com/user-attachments/assets/deb87d14-36c9-4c82-baca-f22d3055f50a)
- 
-
 ##  Developer Experience
 I have previously published 5+ apps on the Google Play Store with 7,000+ active users. You can check my developer profile here: [Blanklearn Play Store](https://play.google.com/store/apps/developer?id=Blanklearn)
 
 ---
 *Built with ❤️ by Lavkush Bind*
+
+##  Screenshots
+![photo_2026-04-06_19-10-37](https://github.com/user-attachments/assets/5a29b667-8924-4dda-9e52-5dfe259b7c37)
+![photo_2026-04-06_19-11-25](https://github.com/user-attachments/assets/deb87d14-36c9-4c82-baca-f22d3055f50a)
+![photo_2026-04-06_19-10-38 (2)](https://github.com/user-attachments/assets/ce6581ca-16f4-459e-925f-1fa45c14f833)
+![photo_2026-04-06_19-10-38](https://github.com/user-attachments/assets/72fc69a8-2c21-45e2-a9e5-426cea839f73)
+![photo_2026-04-06_19-10-39](https://github.com/user-attachments/assets/f4a885c0-10d5-4b1a-9a43-390d64ef7d2d)
+ 
+ 
